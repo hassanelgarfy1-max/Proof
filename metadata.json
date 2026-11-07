@@ -1,0 +1,6 @@
+{
+  "name": "PROOF",
+  "description": "SHOW WHAT YOU CAN DO. Skills assessment and talent discovery platform connecting candidates with companies through practical, evidence-based challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
